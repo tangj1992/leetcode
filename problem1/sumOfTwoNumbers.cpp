@@ -9,6 +9,8 @@
 */
 #include <iostream>
 #include <vector>
+#include "../define.h"
+
 using namespace std;
 
 class Solution {
@@ -28,6 +30,8 @@ public:
     }
 };
 
+#ifdef TEST_PROBLEM1
+
 int main(){
     vector<int> arr({2, 7, 11, 15});
     int target = 9;
@@ -40,3 +44,5 @@ int main(){
 
     return 0;
 }
+
+#endif
