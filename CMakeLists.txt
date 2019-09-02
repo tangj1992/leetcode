@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode
     problem1/sumOfTwoNumbers.cpp
-    problem2/addTwoNumbers.cpp)
+    problem2/addTwoNumbers.cpp
+    problem3/lengthOfLongestSubstring.cpp)
