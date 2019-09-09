@@ -7,4 +7,5 @@ add_executable(leetcode
     problem1/sumOfTwoNumbers.cpp
     problem2/addTwoNumbers.cpp
     problem3/lengthOfLongestSubstring.cpp
-    problem4/findMedianSortedArrays.cpp)
+    problem4/findMedianSortedArrays.cpp
+    problem5/longestPalindrome.cpp)
