@@ -8,4 +8,5 @@ add_executable(leetcode
     problem2/addTwoNumbers.cpp
     problem3/lengthOfLongestSubstring.cpp
     problem4/findMedianSortedArrays.cpp
-    problem5/longestPalindrome.cpp)
+    problem5/longestPalindrome.cpp
+    problem6/convert.cpp)
