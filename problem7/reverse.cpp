@@ -17,7 +17,6 @@
 */
 #include <iostream>
 #include <string>
-#include <math.h>
 #include "../define.h"
 
 using namespace std;
@@ -31,7 +30,7 @@ public:
             res = res * 10 + x % 10;
             x   = x / 10;
         }
-        res = ((res > pow(2, 31) - 1) || (res < -pow(2, 31))) ? 0 : res;
+        res = ((res > INT_MAX) || (res < INT_MIN)) ? 0 : res;
 
         return (int)res;
     }

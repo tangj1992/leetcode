@@ -10,4 +10,5 @@ add_executable(leetcode
     problem4/findMedianSortedArrays.cpp
     problem5/longestPalindrome.cpp
     problem6/convert.cpp
-    problem7/reverse.cpp)
+    problem7/reverse.cpp
+    problem8/atoi.cpp)
