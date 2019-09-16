@@ -12,4 +12,5 @@ add_executable(leetcode
     problem6/convert.cpp
     problem7/reverse.cpp
     problem8/atoi.cpp
-    problem9/isPalindrome.cpp)
+    problem9/isPalindrome.cpp
+    problem10/match.cpp)
