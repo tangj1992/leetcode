@@ -15,4 +15,5 @@ add_executable(leetcode
     problem9/isPalindrome.cpp
     problem10/match.cpp
     problem11/maxArea.cpp
-    problem12/intToRoman.cpp)
+    problem12/intToRoman.cpp
+    problem13/romanToInt.cpp)
