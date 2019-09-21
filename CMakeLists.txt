@@ -13,4 +13,5 @@ add_executable(leetcode
     problem7/reverse.cpp
     problem8/atoi.cpp
     problem9/isPalindrome.cpp
-    problem10/match.cpp)
+    problem10/match.cpp
+    problem11/maxArea.cpp)
