@@ -17,4 +17,5 @@ add_executable(leetcode
     problem11/maxArea.cpp
     problem12/intToRoman.cpp
     problem13/romanToInt.cpp
-    problem14/longestCommonPrefix.cpp)
+    problem14/longestCommonPrefix.cpp
+    problem15/threeSum.cpp)
