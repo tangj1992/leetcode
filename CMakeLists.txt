@@ -18,4 +18,5 @@ add_executable(leetcode
     problem12/intToRoman.cpp
     problem13/romanToInt.cpp
     problem14/longestCommonPrefix.cpp
-    problem15/threeSum.cpp)
+    problem15/threeSum.cpp
+    problem16/threeSumClosest.cpp)
