@@ -22,4 +22,5 @@ add_executable(leetcode
     problem16/threeSumClosest.cpp
     problem17/letterCombinations.cpp
     problem18/fourSum.cpp
-    problem19/removeNthFromEnd.cpp)
+    problem19/removeNthFromEnd.cpp
+    problem20/isValid.cpp)
