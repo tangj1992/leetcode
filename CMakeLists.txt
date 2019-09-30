@@ -19,4 +19,4 @@ add_executable(leetcode
     problem13/romanToInt.cpp
     problem14/longestCommonPrefix.cpp
     problem15/threeSum.cpp
-    problem16/threeSumClosest.cpp)
+    problem16/threeSumClosest.cpp problem17/letterCombinations.cpp)
